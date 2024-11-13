@@ -1,0 +1,5 @@
+# ninja log v6
+6	2942	7526127447958355	CMakeFiles/TraceSysCall.dir/main.cpp.obj	da0bb80f45c08aba
+25	524	7526159923565723	build.ninja	7544797f9d961bc7
+2943	3065	7526127477332417	TraceSysCall.exe	1c10677aeac10ac8
+67	4757	7526038607889816	CMakeFiles/TraceSysCall.dir/SysCall.cpp.obj	a98bdef834bbb341
